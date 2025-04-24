@@ -1,4 +1,4 @@
-# Aplikasi CRUD Buku
+# Aplikasi Buku
 
 Aplikasi ini adalah program Windows Forms sederhana yang dibuat menggunakan Visual C#. Aplikasi ini memungkinkan pengguna untuk melakukan operasi CRUD (Create, Read, Update, Delete) pada data buku.
 
